@@ -11,3 +11,7 @@ Author: Dinesh
 4. Attachments (Image, Audio, Video) code
 
 5. Hiding last seen
+
+6. Add the audio features
+
+7. Add the video features
